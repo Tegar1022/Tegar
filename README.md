@@ -10,13 +10,12 @@
 
 <h2 align="left"><samp>🦇 01. / INITIALIZATION_PROFILE</samp></h2>
 
-Halo! Saya **M. Bias Tegar Islami**, siswa SMK TI Dwiguna jurusan Pemrograman Perangkat Lunak dan Gim (PPLG)[cite: 5]. Saya adalah seorang **Creative Front-End Web Developer**, **UI Designer**, dan pembuat website interaktif yang menggabungkan logika kode absolut dengan estetika desain murni[cite: 5, 6]. 
+Halo! Saya **M. Bias Tegar Islami**, siswa SMK TI Dwiguna jurusan Pemrograman Perangkat Lunak dan Gim (PPLG). Saya adalah seorang **Creative Front-End Web Developer**, **UI Designer**, dan pembuat website interaktif yang menggabungkan logika kode absolut dengan estetika desain murni. 
 
-- ⚔️ **Fokus Saat Ini:** Mengembangkan aplikasi full-stack, website interaktif, dan pemanfaatan *Assistive AI* untuk mempercepat alur kerja (*coding* & desain)[cite: 5, 6].
-- 🎨 **Kreativitas Digital:** Mendesain antarmuka UI/UX yang rapi dengan **Figma**, serta mengeksekusi aset visual kreatif dan poster menggunakan **Canva** secara maksimal[cite: 5, 6].
-- 🎮 **Eksplorasi:** Mengembangkan logika mekanik *game* simulasi RPG interaktif menggunakan **Scratch**[cite: 5, 8].
-- 🎯 **Filosofi:** *"What is a heart?"* — Layaknya Ulquiorra, saya memadukan kehampaan dengan ketajaman pikiran untuk merakit kode dan desain menjadi sistem yang bernyawa.
-
+- ⚔️ **Fokus Saat Ini:** Mengembangkan aplikasi full-stack, website interaktif, dan pemanfaatan *Assistive AI* untuk mempercepat alur kerja (*coding* & desain).
+- 🎨 **Kreativitas Digital:** Mendesain antarmuka UI/UX yang rapi dengan **Figma**, serta mengeksekusi aset visual kreatif dan poster menggunakan **Canva** secara maksimal.
+- 🎮 **Eksplorasi:** Mengembangkan logika mekanik *game* simulasi RPG interaktif menggunakan **Scratch**.
+- 🎯 **Filosofi:** *"better than before?"* 
 <br />
 
 <h2 align="left"><samp>🟢 02. / ARSENAL_&_ABILITIES</samp></h2>
