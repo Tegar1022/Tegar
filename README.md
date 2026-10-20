@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ichigo-banner.jpg" alt="Ichigo Banner" width="100%" height="250" style="object-fit: cover; object-position: center 20%;" />
+  <img src="./assets/Ulquiorra Cifer.jpg" alt="Ichigo Banner" width="100%" />
 </div>
 
 <div align="center">
