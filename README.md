@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ichigo-banner.png" alt="Ichigo Kurosaki Banner" width="100%" />
+  <img src="./assets/ichigo-banner.jpg" alt="Ichigo Kurosaki Banner" width="100%" />
 </div>
 
 <div align="center">
